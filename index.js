@@ -11,7 +11,7 @@ const options = {
     },
     identity: {
         username: secret.USERNAME,
-        password: secret.SECRETT_KEY
+        password: secret.SECRET_KEY
     },
     channels: [
         secret.CHANNEL
